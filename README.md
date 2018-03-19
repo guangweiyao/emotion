@@ -20,6 +20,11 @@ tar xf fer2013.tar
 # Training
 
 ```
+python train_emotion_classifier.py
+```
+or if you use wandb
+
+```
 wandb run python train_emotion_classifier.py
 ```
 
